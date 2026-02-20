@@ -1,2 +1,2 @@
 # youtube-engagement-bot
-Automated YouTube engagement tool
+The youtube-engagement-bot is an automation tool designed to enhance engagement on YouTube by automatically interacting with video content. It automates tasks like liking videos, commenting on them, and subscribing to channels, allowing YouTube marketers and content creators to scale their engagement efforts while maintaining active interaction with their audience.
